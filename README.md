@@ -21,3 +21,4 @@ Excuting `main.py` by python in console will automatically load the data file an
 ```bash
 python main.py
 ```
+The result `.pkl` files are in pyhton pickle format.
