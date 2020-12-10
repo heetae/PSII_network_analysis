@@ -5,10 +5,6 @@
 
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-from discreteMarkovChain import markovChain
-import seaborn as sns
-import pandas as pd
 
 def Gini(list_x):
     x=sortlist(list_x)[0]
