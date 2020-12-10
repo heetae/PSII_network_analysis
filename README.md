@@ -2,7 +2,7 @@
 Python code to cumpute excitation energy transfer between chlorophylls in PSII supercomplex
 
 # Author
-Heetae Kim
+Heetae Kim, Data Science Institute, Universidad del Desarrollo
 
 # License
 This work is licensed under the GNU General Public License v3.0. For details please read LICENSE.txt.
